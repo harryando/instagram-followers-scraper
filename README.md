@@ -1,2 +1,2 @@
-# instagram_followers_scraper
+# instagram-followers-scraper
 Auto scrape IG followers
