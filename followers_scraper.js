@@ -2,7 +2,7 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 // ================= CONFIG =================
-const TARGET_USERNAME = 'masando11';
+const TARGET_USERNAME = 'your_target_username';
 const SESSION_FILE = 'session.json';
 
 const OUTPUT_TXT = 'followers.txt';
